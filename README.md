@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @crolette, I'm 33 years old
-- 👀 I’m interested in tennis, hiking, vacancies, dance/electro/techno/drum and bass muss.
-- 🌱 I’m currently learning web development on Udacity
-- 💞️ I’m looking to exchange about web development in order to improve my skills
-- 📫 You can reach me via GitHub.
+#👋 Hi, I’m @crolette
+---
+Currently training at [BeCode](https://becode.org/all-trainings/pedagogical-framework-junior-developer/) as Junior Web Developer
+
+## My work
+---
+![Crolette's GitHub stats](https://github-readme-stats.vercel.app/api?username=crolette&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crolette&size_weight=0.5&count_weight=0.5)
+
+## How to reach me?
+---
+![alt text](github.svg)
+![alt text](linkedin.svg)
 
 <!---
 crolette/crolette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
