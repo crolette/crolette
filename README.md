@@ -8,6 +8,5 @@ Currently learning at [BeCode](https://becode.org/all-trainings/pedagogical-fram
 
 ## How to reach me?
 [![Mail](paper-plane.svg)](mailto:crolweb@gmail.com)
-</br>
 [![GitHub](github.svg)](https://github.com/crolette)
 [![Linkedin](linkedin.svg)](https://www.linkedin.com/in/jonathan-de-dijcker/)
