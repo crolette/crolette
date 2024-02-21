@@ -1,4 +1,6 @@
 # Hi, I’m Jonathan/@crolette 👋
+:world_map: Living in Liège (:belgium:)
+
 Currently learning at [BeCode](https://becode.org/all-trainings/pedagogical-framework-junior-developer/) for a Junior Web Developer certificate.
 
 ## My work
