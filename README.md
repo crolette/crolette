@@ -1,5 +1,5 @@
 # Hi, I’m Jonathan/@crolette 👋
-:world_map: Living in Liège (:belgium:)
+:world_map: Living in Eupen - Liège (:belgium:)
 Currently learnning at [BeCode](https://becode.org/all-trainings/pedagogical-framework-junior-developer/) as Full Stack Web Developer
 
 ## My work
