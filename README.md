@@ -5,7 +5,7 @@ Currently learnning at [BeCode](https://becode.org/all-trainings/pedagogical-fra
 ## My work
 ![Crolette's GitHub stats](https://github-readme-stats.vercel.app/api?username=crolette&show_icons=true&theme=dark&hide_rank=true)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crolette&size_weight=0.5&count_weight=0.5&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crolette&theme=dark)
 
 [My Frontend Mentor Challenges](https://www.frontendmentor.io/profile/crolette)
 
