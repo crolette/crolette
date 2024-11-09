@@ -12,12 +12,15 @@ Currently learnning at [BeCode](https://becode.org/all-trainings/pedagogical-fra
 - [Node/MVC/Express/JWT](https://github.com/crolette/node-mvc-express-jwt): a Node.JS project with a small MVC architecture and JWT for authentication.
 - And if you feel like having a little fun, here's a little game in JS:  [aMAZEing](https://amazeing-becode-project-crolweb.netlify.app/)
 
-
 ![Crolette's GitHub stats](https://github-readme-stats.vercel.app/api?username=crolette&show_icons=true&theme=dark&hide_rank=true)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crolette&theme=dark)
 
 [My Frontend Mentor Challenges](https://www.frontendmentor.io/profile/crolette)
+
+## My projects
+= [AuRésonance](https://auresonance.be/): Design and implementation of a Wordpress website for a sound therapist.
+
 
 ## Socials
 [![Mail](paper-plane.svg)](mailto:crolweb@gmail.com)
