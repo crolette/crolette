@@ -26,3 +26,6 @@ Currently learnning at [BeCode](https://becode.org/all-trainings/pedagogical-fra
 [![Mail](paper-plane.svg)](mailto:crolweb@gmail.com)
 [![GitHub](github.svg)](https://github.com/crolette)
 [![Linkedin](linkedin.svg)](https://www.linkedin.com/in/jonathan-de-dijcker/)
+
+Maybe I didn't pushed something on my repo since beginning September but it was because I was busy on another project:
+![image](https://github.com/user-attachments/assets/6b3d6e60-fd17-4aa7-9da7-7533c7a1e1fe)
