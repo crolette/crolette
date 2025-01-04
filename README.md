@@ -1,6 +1,6 @@
 # Hi, I’m Jonathan/@crolette 👋
 :world_map: Living in Eupen - Liège (:belgium:)
-Currently learnning at [BeCode](https://becode.org/all-trainings/pedagogical-framework-junior-developer/) as Full Stack Web Developer
+Currently freelance as Web Developer. Do not hesitate to contact me to discuss your project.
 
 ## My work
 - [Next-Events](https://next-events-ccaf31db454e.herokuapp.com/):  For this project (which took 3 of us 6 weeks to complete), I was mainly in charge of the Back-End and a little of the Front. We used Adonis.js, a little-known framework that's the JS counterpart to Laravel. Why this framework? Because we wanted to build our project in JS with an MVC architecture, and Adonis made it possible. So we decided to go for it, even though we knew it might be more complicated because the framework is less well documented than, say, Laravel. On the project side, I took care of route management, the MySQL database, the queries to retrieve the data to be sent to the Front, the management of the various user filters, the cart, the dashboard, part of the authentication and data validation on the server side, as well as the map (with Leaflet) to display only events around a certain search zone. The site is also multilingual, managed with l18n. For the frontend, we used the Adonis.js template engine, namely Edge with Tailwind.
