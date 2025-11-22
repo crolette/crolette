@@ -3,9 +3,16 @@
 Currently freelance as Web Developer. Do not hesitate to contact me to discuss your project.
 
 ## My work
-- [Next-Events](https://next-events-ccaf31db454e.herokuapp.com/):  For this project (which took 3 of us 6 weeks to complete), I was mainly in charge of the Back-End and a little of the Front. We used Adonis.js, a little-known framework that's the JS counterpart to Laravel. Why this framework? Because we wanted to build our project in JS with an MVC architecture, and Adonis made it possible. So we decided to go for it, even though we knew it might be more complicated because the framework is less well documented than, say, Laravel. On the project side, I took care of route management, the MySQL database, the queries to retrieve the data to be sent to the Front, the management of the various user filters, the cart, the dashboard, part of the authentication and data validation on the server side, as well as the map (with Leaflet) to display only events around a certain search zone. The site is also multilingual, managed with l18n. For the frontend, we used the Adonis.js template engine, namely Edge with Tailwind.
-- [Hiking Project](https://hiking-project-3d056b59bd58.herokuapp.com/):  a PHP/Laravel project completed in a week, with an authentication system for adding hikes that can be filtered according to certain tags.
-- [EveryoneGames](https://everyonegames-041270eefc07.herokuapp.com/): a React project with calls to the Rawg.io API, a video game database. For this site, I was in charge of API calls, filters and React components such as game cards, the game page and infinite scroll.
+- [International ChessRun Federation](www.chessrun.org)
+- [WOW-Resto](www.wow-resto.com)
+- [SME-Facility](www.sme-facility.com)
+- [FacilityWebXP](www.facilitywebxp.com)
+- [L'Atelier de Charlotte](www.latelierdecharlotte.com)
+
+### Projects done during my courses at BeCode:
+- [Next-Events](https://github.com/last-event-org/cultural-events-hub):  For this project (which took 3 of us 6 weeks to complete), I was mainly in charge of the Back-End and a little of the Front. We used Adonis.js, a little-known framework that's the JS counterpart to Laravel. Why this framework? Because we wanted to build our project in JS with an MVC architecture, and Adonis made it possible. So we decided to go for it, even though we knew it might be more complicated because the framework is less well documented than, say, Laravel. On the project side, I took care of route management, the MySQL database, the queries to retrieve the data to be sent to the Front, the management of the various user filters, the cart, the dashboard, part of the authentication and data validation on the server side, as well as the map (with Leaflet) to display only events around a certain search zone. The site is also multilingual, managed with l18n. For the frontend, we used the Adonis.js template engine, namely Edge with Tailwind.
+- [Hiking Project](https://github.com/crolette/hiking-project):  a PHP/Laravel project completed in a week, with an authentication system for adding hikes that can be filtered according to certain tags.
+- [EveryoneGames](https://github.com/crolette/react-everyonegames): a React project with calls to the Rawg.io API, a video game database. For this site, I was in charge of API calls, filters and React components such as game cards, the game page and infinite scroll.
 - [Scoot Project](https://junior-dev-track.github.io/14-css-scoot-project-dan-jonathan/): The aim was to recreate a site based on a Figma model. This project was done in HTML and SCSS.
 - [Dark Kitchen](https://darkkitchen.netlify.app/): Project in HTML and SCSS and JS Vanilla showing a list of dishes with the possibility of adding to the basket and searching by type of dish.
 - [Pokemilton](https://github.com/crolette/pokemilton): a Pokemon-style game in Node.js.
@@ -27,5 +34,3 @@ Currently freelance as Web Developer. Do not hesitate to contact me to discuss y
 [![GitHub](github.svg)](https://github.com/crolette)
 [![Linkedin](linkedin.svg)](https://www.linkedin.com/in/jonathan-de-dijcker/)
 
-Maybe I didn't pushed something on my repo since beginning September but it was because I was busy on another project:
-![image](https://github.com/user-attachments/assets/6b3d6e60-fd17-4aa7-9da7-7533c7a1e1fe)
